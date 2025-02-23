@@ -1,10 +1,10 @@
 ---
-// filepath: /Users/petteriheino/Git/Testi/jekyll-theme-chirpy/assets/css/jekyll-theme-chirpy.scss
 ---
 
-@use '../_sass/main';
+@use 'main
 {%- if jekyll.environment == 'production' -%}
-  @use '../_sass/main.bundle';
+  .bundle
 {%- endif -%}
+';
 
 /* append your custom style below */
