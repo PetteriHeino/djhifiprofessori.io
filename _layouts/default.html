@@ -20,11 +20,10 @@ layout: compress
     {% include sidebar.html lang=lang %}
 
     <div id="main-wrapper" class="d-flex justify-content-center">
-      <div class="container d-flex flex-column px-xxl-5">
-        {% include topbar.html lang=lang %}
-
+      <div class="container d-flex flex-column px-0"> <!-- No padding class here -->
+        <!-- Change the padding class here if needed -->
         <div class="row flex-grow-1">
-          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-0"> <!-- No padding class here -->
             {% if layout.refactor or layout.layout == 'default' %}
               {% include refactor-content.html content=content lang=lang %}
             {% else %}

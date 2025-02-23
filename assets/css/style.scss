@@ -1,0 +1,18 @@
+#main-wrapper {
+  .container {
+    padding-left: 0 !important; // Remove padding to bring content closer to the sidebar
+    padding-right: 0 !important; // Remove padding to bring content closer to the sidebar
+  }
+}
+
+#main-wrapper .row {
+  margin-left: 0 !important; // Remove margin to bring content closer to the sidebar
+  margin-right: 0 !important; // Remove margin to bring content closer to the sidebar
+}
+
+#main-wrapper .col-12, 
+#main-wrapper .col-lg-11, 
+#main-wrapper .col-xl-9 {
+  padding-left: 0 !important; // Remove padding to bring content closer to the sidebar
+  padding-right: 0 !important; // Remove padding to bring content closer to the sidebar
+}
