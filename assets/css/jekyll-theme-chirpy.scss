@@ -4,7 +4,7 @@
 
 @use '../_sass/main';
 {%- if jekyll.environment == 'production' -%}
-  @use '../themes/main.bundle';
+  @use '../_sass/main.bundle';
 {%- endif -%}
 
 /* append your custom style below */
