@@ -1,11 +1,12 @@
 ---
+// filepath: /Users/petteriheino/Git/Testi/jekyll-theme-chirpy/assets/css/jekyll-theme-chirpy.scss
 ---
 
-@use 'node_modules/bootstrap/scss/bootstrap'; 
+
+
+
 @use 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
 ';
-
-/* append your custom style below */
