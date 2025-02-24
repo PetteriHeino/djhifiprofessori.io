@@ -1,0 +1,73 @@
+# Query: package
+# Flags: CaseSensitive RegExp
+# ContextLines: 1
+
+16 results - 7 files
+
+_config.yml:
+  234    - rollup.config.js
+  235:   - "package*.json"
+  236  
+
+.gitignore:
+  15  node_modules
+  16: package-lock.json
+  17  
+
+package.json:
+  133              "docs",
+  134:             "package.json",
+  135              "*.gemspec"
+
+rollup.config.js:
+  4  import fs from 'fs';
+  5: import pkg from './package.json';
+  6  
+
+.devcontainer/post-create.sh:
+  2  
+  3: if [ -f package.json ]; then
+  4    bash -i -c "nvm install --lts && nvm install-latest-npm"
+
+.github/dependabot.yml:
+   2  updates:
+   3:   - package-ecosystem: "bundler"
+   4      directory: "/"
+
+   6        interval: "weekly"
+   7:   - package-ecosystem: "npm"
+   8      directory: "/"
+
+  16        interval: "weekly"
+  17:   - package-ecosystem: "github-actions"
+  18      directory: "/"
+
+  24        interval: "weekly"
+  25:   - package-ecosystem: "devcontainers"
+  26      directory: "/"
+
+tools/release.sh:
+    7  opt_pre=false # option for bump gem version
+    8: opt_pkg=false # option for building gem package
+    9  
+
+   13  GEM_SPEC="jekyll-theme-chirpy.gemspec"
+   14: NODE_SPEC="package.json"
+   15  CHANGELOG="docs/CHANGELOG.md"
+
+   43    echo "  --prepare           Preparation for release"
+   44:   echo "  -p, --package       Build a gem package only, for local packaging in case of auto-publishing failure"
+   45    echo "  -h, --help          Display this help message"
+
+  111  
+  112: ## Build a Gem package
+  113  build_gem() {
+
+  118    npm run build
+  119:   # add CSS/JS distribution files to gem package
+  120    git add "$CSS_DIST" "$JS_DIST" -f
+
+  169      ;;
+  170:   -p | --package)
+  171      opt_pkg=true
+
