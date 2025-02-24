@@ -26,7 +26,7 @@ jobs:
         npm install
 
     - name: Debug node_modules
-      run: ls -R node_modules/bootstrap/scss
+      run: ls -R node_modules
 
     - name: Build site
       run: bundle exec jekyll build --baseurl "/djhifiprofessori.io"
