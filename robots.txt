@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://petteriheino.github.io/djhifiprofessori.io/sitemap.xml
+Sitemap: https://djhifiprofessori.github.io/djhifiprofessori.io/sitemap.xml
