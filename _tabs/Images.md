@@ -10,10 +10,10 @@ order: 4
     <img src="{{ '/assets/img/hifi.jpg' | relative_url }}" alt="Image 1">
   </div>
   <div class="gallery-item">
-    <img src="{{ '/assets/img/apeinfo.jpeg' | relative_url }}" alt="Image 2">
+    <img src="{{ '/assets/img/ApeInfo.jpeg' | relative_url }}" alt="Image 2">
   </div>
   <div class="gallery-item">
-    <img src="{{ '/assets/img/dotheape.jpg' | relative_url }}" alt="Image 3">
+    <img src="{{ '/assets/img/DoTheApe.jpg' | relative_url }}" alt="Image 3">
   </div>
   <div class="gallery-item">
     <img src="{{ '/assets/img/hifi2.jpg' | relative_url }}" alt="Image 4">
