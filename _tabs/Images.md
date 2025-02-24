@@ -4,7 +4,6 @@ icon: fas fa-images
 order: 4
 ---
 
-
 <div class="gallery">
   <div class="gallery-item">
     <img src="{{ '/assets/img/hifi.jpg' | relative_url }}" alt="Image 1">
