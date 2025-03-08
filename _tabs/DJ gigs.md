@@ -7,7 +7,7 @@ order: 5
 
 ## Upcoming DJ gigs
 
-24.5.2025 DJ Hifiprofessori & DJ Smokey Joe, Ant Brew bar Lahti
+24.5.2025 DJ Hifiprofessori & DJ Smokey Joe, Ant Brew bar Lahti  
 19.7.2025 Hot Rockin' vol 3, Torvi, Lahti Finland
 
 ## Past DJ gigs
