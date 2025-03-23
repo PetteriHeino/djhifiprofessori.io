@@ -27,7 +27,7 @@ This page doesn't have anything to do with my DJ stuff. Here I am listing the li
 | 4.4.2025 | Eläkeläiset   | Möysän Musaklubi, Lahti         | probably not   |
 | 22.3.2025 | Cleaning Women     | Torvi, Lahti        |  maybe       |
 | 14.3.2025 | Two Headed, Eduardo Martinez & The Live Desires       | Bar Loose, Helsinki         | can't afford to   |
-| 8.3.2025 | Mary Ann Hawkins, Slicerrr      | Torvi, Lahti     | I have a ticket already |
+| 8.3.2025 | Mary Ann Hawkins, Slicerrr      | Torvi, Lahti     | I was there |
 
 
 
