@@ -12,12 +12,22 @@ This page doesn't have anything to do with my DJ stuff. Here I am listing the li
 
 | Date       | Venue          | Place         | Info                  |
 |------------|----------------|---------------|-----------------------|
+| 9.12.2025 | Viagra Boys | Kulttuuritalo, Helsinki | |
 | 28.11.2025| The Saints '73-'78       | Debaser, Stockholm         | probably can't afford to    |
 | 23.10.2025| Dropkick Murphys       | Jäähalli, Helsinki         | maybe    |
+| 6.9.2025 | Helsinki Psycho Invasion | Palyhouse Bar, Helsinki | |
+| 29.8.2025 | Jukka Nousiainen Trio, Maria Ja Marsilaiset, Lentävä Sirkkeli | Suvilahti, Helsinki | |
+| 27.8.2025 | Bob Log III | On The Rocks, Helsinki | |
+| 12.8.2025 | Fatboy | On The Rocks | On The Rocks, Helsinki | |
 | 10.8.2025| The Hellacopters       | Allas, Helsinki         | maybe    |
+| 1.8.2025 | Kaupungin äänet '25 | Lahti | |
+| 6.7.2025 | Alppipuiston Kansanjuhla | Alppipuisto, Helsinki |  |
 | 4.7-7.7.2025| Berlin Beat Invasion       | Berlin, Germany        |  not going, only interested in   |
 | 25.7.-26.7.2025| Jytäkesä 2025       | Suvilahti, Helsinki         | I have a ticket already    |
 | 19.7.2025| Hot Rockin'      | Torvi, Lahti         | I'm a DJ of the evening   |
+| 28.6.2025| HowSka, Sky Dee & The Demons | Torvi, Lahti | |
+| 27.6.2025| Jussi Syren And The Groundbreakers | Pub Virasto, Lahti | |
+| 14.6.2025| Goblin Shark, Nightbird, Tinkerbella| Torvi, Lahti | Going |
 | 23.5-24.5.2025| Surf-O-Rama      | Valencia, Spain         | not going, only interested in   |  
 | 23.5.2025 | Litku Klemetti, Jukka Nousiainen       | Uudenkylän seurantalo         | Probably    |
 | 2.5.-4.5.2025 | Hipsville a Go-Go       | Margate, England         | not going, only interested in   |
