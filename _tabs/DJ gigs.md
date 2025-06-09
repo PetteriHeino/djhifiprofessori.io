@@ -8,7 +8,8 @@ order: 5
 ## Upcoming DJ gigs
 
 4.7.2025 DJ Hifiprofessori & DJ Smokey Joe, Ant Brew bar Lahti  
-19.7.2025 Hot Rockin' vol 3, Torvi, Lahti Finland  
+19.7.2025 Hot Rockin' vol 3, Torvi, Lahti Finland
+15.8.2025 Islands In The Sun (DJ festival), Black Door, Helsinki Finland  
 16.8.2025 Levymessut, Torvi & Trra, Lahti Finland  
 22.8.2025 DJ Hifiprofessori, Ant Brew, Lahti Finland  
 
