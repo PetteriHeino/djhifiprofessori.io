@@ -27,7 +27,7 @@ order: 5
 27.1.2024 DJ Hifiprofessori, Ant Brew bar Lahti  
 25.11.2023 Vinyylin Wartijat klubi, Tirra Lahti  
 28.10.2023 Lähiödisko vol 3, Ant Brew bar Lahti  
-17.12.2022 Lähiödisko vol 2 - Säpinää  
+17.12.2022 Lähiödisko vol 2 - Lemmenhotelli, Helsinki 
 
 
 
