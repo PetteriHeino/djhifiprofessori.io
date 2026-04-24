@@ -8,6 +8,7 @@ order: 5
 ## Upcoming DJ gigs
 
 2.5.2026 DJ Geelimies, DJ Hifiprofessori, DJ Smokey Joe, Pieni Levykauppa & Hiusateljee, Lahti Finland  
+
 8.8.2026 Hot Rockin' vol 4, DJ Hifiprofessori (Bändit ilmoitetaan myöhemmin), Torvi, Lahti Finland  
 
 ## Past DJ gigs
