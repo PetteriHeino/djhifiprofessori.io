@@ -7,11 +7,12 @@ order: 5
 
 ## Upcoming DJ gigs
 
-2.5.2026 DJ Geelimies, DJ Hifiprofessori, DJ Smokey Joe, Pieni Levykauppa & Hiusateljee, Lahti Finland  
-
+7.8.2026 Islands In The Sun DJ festival, Black Door, Helsinki Finland  
 8.8.2026 Hot Rockin' vol 4, DJ Hifiprofessori (Bändit ilmoitetaan myöhemmin), Torvi, Lahti Finland  
+29.8.2026 Vinyylin Wartijat DJ festari, Torvi, Lahti Finland  
 
 ## Past DJ gigs
+2.5.2026 DJ Geelimies, DJ Hifiprofessori, DJ Smokey Joe, Pieni Levykauppa & Hiusateljee, Lahti Finland  
 11.4.2026 Joni Ekman Group, Säilä + DJ Hifiprofessori, Ant Brew, Lahti Finland  
 17.10.2025 Vinyylin Wartijat klubi - Tirra, Lahti Finland  
 22.8.2025 DJ Hifiprofessori, Ant Brew, Lahti Finland  
