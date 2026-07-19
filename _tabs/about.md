@@ -50,5 +50,5 @@ Facebook: https://www.facebook.com/profile.php?id=100087732589251
 Instagram: https://www.instagram.com/djprofofhifi/  
 Threads: https://www.threads.net/@djprofofhifi?xmt=AQGzOxmfK3mezyzwDLQAsR45ca5kMDV87Fg--CJBcyASQ68  
 Mixcloud: https://www.mixcloud.com/JohannesPirulainen/  
-Email: keikat(ät)djhifiprofessori.info  
+Email: petteri.heino(ät)outlook.com  
 
