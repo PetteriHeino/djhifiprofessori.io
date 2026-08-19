@@ -12,6 +12,7 @@ order: 5
 ## Past DJ gigs
 7.8.2026 Islands In The Sun DJ festival, Black Door, Helsinki Finland  
 8.8.2026 Hot Rockin' vol 4, DJ Hifiprofessori (Bändit: Hunters, The Dedes, Highway Ghost), Torvi, Lahti Finland  
+27.6.2026 Hauntees, Drug Dog, The High Tydes, DJ Hifiprofessori
 2.5.2026 DJ Geelimies, DJ Hifiprofessori, DJ Smokey Joe, Pieni Levykauppa & Hiusateljee, Lahti Finland  
 11.4.2026 Joni Ekman Group, Säilä + DJ Hifiprofessori, Ant Brew, Lahti Finland  
 17.10.2025 Vinyylin Wartijat klubi - Tirra, Lahti Finland  
